@@ -32,7 +32,8 @@ I am a Software Development student at the **ROC of Amsterdam**. I am currently 
 
 ## Projects 📚
 
-- **[Ethereum Beacon Node](https://github.com/your-github-username/ethereum-beacon-node)**: A rust project aimed at creating a simplified Ethereum beacon node to interact with the network.
+- **[Ethereum Beacon Node](https://github.com/SanderLoman/rust-p2p)**: A rust project aimed at creating a simplified Ethereum beacon node to interact with the network.
+- **[Ethereum Address Creator In Rust](https://github.com/SanderLoman/address-creator)**: A Rust script that can generate a custom wallet to your liking!
 
 ## Let's Connect 🌐
 
