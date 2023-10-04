@@ -1,7 +1,5 @@
 # Hello, I'm Sander Loman 👋
 
-I am a Software Development student at the **ROC of Amsterdam**. I am currently on the lookout for an engaging internship position where I can refine my programming skills and gain hands-on experience in a professional setting. 
-
 ## My Interests 💡
 
 - 🌐 I'm passionate about exploring the limitless possibilities within **Blockchain Technology** and how it can revolutionize various sectors.
