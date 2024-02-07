@@ -13,7 +13,7 @@
 
 ## Projects 📚
 
-- **[Ethereum "Relay" Node](https://github.com/SanderLoman/rust-p2p)**: A rust project aimed at creating an Ethereum relay node to interact with the network.
+- **[Contower](https://github.com/SanderLoman/rust-p2p)**: A rust project aimed at creating an Ethereum relay node to interact with the network.
 - **[Ethereum Address Creator In Rust](https://github.com/SanderLoman/address-creator)**: A Rust script that can generate a custom wallet to your liking!
 
 ## Let's Connect 🌐
