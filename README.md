@@ -1,4 +1,4 @@
-# Sander Loman
+# I'm Sander Loman
 
 ## Interests
 - **Blockchain Technology:** Exploring the transformative potential of blockchain across various sectors.
