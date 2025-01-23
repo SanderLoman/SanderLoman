@@ -1,17 +1,29 @@
-# I'm Sander Loman
+# **Sander Loman**  
 
-## Interests
-- **Blockchain Technology:** Exploring the transformative potential of blockchain across various sectors.
-- **Web Development:** Passionate about creating intuitive and aesthetically pleasing websites, focusing on building engaging front-end interfaces.
+## **About Me**  
+I am a tech enthusiast passionate about **blockchain technology** and **web development**. My focus is on building intuitive, user-friendly interfaces and exploring the transformative power of decentralized technologies. I also have a growing interest in **low-level programming languages like Rust**, appreciating their performance, security, and efficiency in systems development.  
 
-## Organization
-- **[Nodura](https://github.com/nodura):** Founder of Nodura, a small organization dedicated to advancing blockchain technology and developing decentralized applications.
+## **Interests**  
 
-## Projects
-- **[Contower](https://github.com/nodura/contower):** A Rust-based project focused on creating a unique Ethereum node.
+### 🚀 **Blockchain Technology**  
+Exploring how blockchain can revolutionize industries through decentralization, security, and transparency.  
 
-## Connect with Me
-- **LinkedIn:** [Sander Loman](https://www.linkedin.com/in/SanderLoman)
-- **Email:** [sanderfeitsma13@gmail.com](mailto:sanderfeitsma13@gmail.com)
+### 💻 **Web Development**  
+Building modern, responsive, and visually appealing websites with a strong emphasis on user experience.  
 
-Feel free to explore my repositories, and I welcome any opportunities for collaboration or discussion.
+### 🔍 **Tech & Innovation**  
+Always interested in new and emerging technologies, staying curious about advancements that shape the future of the digital world.   
+
+### 🏢 **Entrepreneurship & Organizations**  
+Interested in starting an organization or a company in the future, particularly in the tech space. Passionate about **building teams, creating impactful projects, and solving real-world problems**.  
+
+## **Connect with Me**  
+
+### 🔗 **LinkedIn**  
+[Sander Loman](https://www.linkedin.com/in/SanderLoman)  
+
+### 📧 **Email**  
+[sanderfeitsma13@gmail.com](mailto:sanderfeitsma13@gmail.com)  
+
+### 💬 **Let’s Collaborate!**  
+I’m always open to discussions, collaborations, and new opportunities. If you're working on something exciting, feel free to reach out! 🚀  
